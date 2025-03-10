@@ -38,7 +38,8 @@ This project is licensed under the MIT License.
 - React
 - Tailwind CSS
 
-- ![chatbot](https://github.com/user-attachments/assets/9f9d5858-a61a-4853-8a1f-973d15e8ead4)
+  ![chatbot](https://github.com/user-attachments/assets/13a4a10f-6e82-4909-bf71-f1ec88b2e05a)
+
 
 
 
